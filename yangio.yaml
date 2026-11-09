@@ -1,0 +1,22 @@
+slug: cbts
+name: CBTS Report
+tagline: Báo cáo chuyên đề dạng Markdown và LaTeX
+url: https://github.com/thangvt-food/CBTS
+status: archived
+visibility: private
+description: Bộ tài liệu báo cáo chuyên đề gồm các chương Markdown và file LaTeX/PDF xuất cuối.
+tags:
+  - báo-cáo
+  - latex
+  - tài-liệu
+category: learning
+tech:
+  - latex
+  - markdown
+hosting: unknown
+updated: '2026-05-09'
+icon: 📚
+auth: none
+links:
+  repo: https://github.com/thangvt-food/CBTS
+notes: Repo public chứa tài liệu, không phải web app.
